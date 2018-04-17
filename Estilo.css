@@ -1,0 +1,51 @@
+H1 {
+	color: black;
+	font-style: italic;
+	font-size: 55px;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+
+BODY {
+	background-color: #999999;
+}
+
+DIV {
+	background-color: #555555;
+	
+	background-image: url('Aron.png');
+	height: 330px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#secundario {
+	color: #222222;
+	font-style: italic;
+	font-size: 30px;
+	font-family: "Times New Roman";
+	text-align: center;	
+}
+
+#normal {
+	color: black;
+	font-size: 25px;
+	font-family: "Times New Roman";
+	padding-left: 450px;	
+}
+
+
+
+IMG {
+	border: 2px solid black;
+	width: 200px;
+	height: 200px;
+}
+
+HR {
+	background-color: black;
+	height: 2px;
+}
+
+
+
