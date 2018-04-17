@@ -1,51 +1,41 @@
+@import url('http://fonts.googleapis.com/css?family=Aladin');
 H1 {
-	color: black;
-	font-style: italic;
-	font-size: 55px;
-	font-family: "Comic Sans MS";
-	text-align: center;
+	font-size: 30px;
+	color:antiquewhite;
+	
 }
 
 BODY {
-	background-color: #999999;
-}
-
-DIV {
-	background-color: #555555;
-	
-	background-image: url('Aron.png');
-	height: 330px;
+	background-image: url('fondo.jpg');
+	font-family: 'Aladin';
 	text-align: center;
+	align-items: center;
+}
+.imagenPersona{
+	width: 350px;
+	height: 350px;
+} 
+.seccionPrincipal{
+	margin-left: 20%;
+	margin-right: 30%;
+	height: 100%;
+	width: 800px;
+	background-color: rgba(0,0,0,0.50);
+	align-content: center;
+}
+.titulos{
+	width: 50%;
 	margin: 0 auto;
+	align-content: center;
+	font-size: 50px;
+	color:rgba(98,237,255,1.00);
 }
 
-#secundario {
-	color: #222222;
+.uni{
 	font-style: italic;
-	font-size: 30px;
-	font-family: "Times New Roman";
-	text-align: center;	
 }
-
-#normal {
-	color: black;
-	font-size: 25px;
-	font-family: "Times New Roman";
-	padding-left: 450px;	
+.piePagina{
+	background-color:rgba(22,22,33,1.00);
 }
-
-
-
-IMG {
-	border: 2px solid black;
-	width: 200px;
-	height: 200px;
-}
-
-HR {
-	background-color: black;
-	height: 2px;
-}
-
 
 
